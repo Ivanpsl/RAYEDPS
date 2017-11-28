@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fb50b8a06c6695a4badb4e263e7f862f
+timeCreated: 1500208335
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Oberon Deux Bevel Italic
+  fontNames:
+  - Oberon Deux Bevel Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

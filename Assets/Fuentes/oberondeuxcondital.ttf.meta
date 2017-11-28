@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0b14f507187a1f343b1bab9911c3aa84
+timeCreated: 1500208334
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Oberon Deux Condensed Italic
+  fontNames:
+  - Oberon Deux Condensed Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

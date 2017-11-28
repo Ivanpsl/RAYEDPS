@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 44aeac7715507d042bd6fc89ad667d8a
+timeCreated: 1500208335
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dangerbot Gradient
+  fontNames:
+  - Dangerbot Gradient
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

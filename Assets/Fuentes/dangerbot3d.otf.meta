@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 18970ee5f701e744393e5776eaa064b4
+timeCreated: 1500208334
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dangerbot 3D
+  fontNames:
+  - Dangerbot 3D
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

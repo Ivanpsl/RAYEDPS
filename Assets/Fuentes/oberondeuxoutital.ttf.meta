@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0a04092f8f47def4aa4df5789242c5e6
+timeCreated: 1500208334
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Oberon Deux Outline Italic
+  fontNames:
+  - Oberon Deux Outline Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

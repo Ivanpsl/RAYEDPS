@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 06473c295941d3a43b7c40051b7ec4a2
+timeCreated: 1500208334
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dangerbot Expanded Laser
+  fontNames:
+  - Dangerbot Expanded Laser
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
